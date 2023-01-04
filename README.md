@@ -15,6 +15,10 @@ git clone https://github.com/elizeubarbosaabreu/Dice-Roller.git
 # Instalação das Dependências:
 
 * O Python dependerá de algumas bibliotecas para poder funcionar bem com esta aplicação...
+* Navegue até a pasta com o comando:
+~~~
+cd Dice-Roller
+~~~
 * Instale as dependencias com o comando abaixo:
 ~~~python
 pip install -r requirements.txt
